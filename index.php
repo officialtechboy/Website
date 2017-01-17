@@ -8,8 +8,8 @@
 </head>
 <body>
 
-<h1><?= PR_NAME; ?></h1>
-<hr/>
+<?php include("_include/nav.php"); ?>
+
 <pre>
 Contact Information: <br />
 <?php 

@@ -11,6 +11,7 @@ define("DB_PASS", "");
 define("DB_NAME", "WebFramework");
 
 include("_include/connect.php");
+include("_include/functions.php");
 
 // Get General information
 
